@@ -1,5 +1,5 @@
 # FUNDMEUG
-###### Fundraise for your loved ones in Uganda. A platform dedicated to helping you support your loved ones in times of need. Whether it's for medical expenses, education costs or any other worthy cause. FUNDMEUG is here to empower you make a difference
+#### Fundraise for your loved ones in Uganda. A platform dedicated to helping you support your loved ones in times of need. Whether it's for medical expenses, education costs or any other worthy cause. FUNDMEUG is here to empower you make a difference
 
 ## It's all about compassion, empathy, support and Unity
 
